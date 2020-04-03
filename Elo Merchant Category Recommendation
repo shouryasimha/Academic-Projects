@@ -1,1 +1,5 @@
 
+ Elo, one of the largest payment brands in Brazil, has built partnerships with merchants in order to offer promotions or discounts to cardholders. But do these promotions work for either the consumer or the merchant? Do customers enjoy their experience? Do merchants see repeat business? Personalization is key.
+
+Elo has built machine learning models to understand the most important aspects and preferences in their customers’ lifecycle, from food to shopping. But so far none of them is specifically tailored for an individual or profile. 
+I decided to take up this kaggle challenge and solve it .I have used this challenge as my project for Applied Predictive Modelling Class.
